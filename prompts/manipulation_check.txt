@@ -1,0 +1,9 @@
+What follows are the interview questions and resume for {first_name}
+{last_name}'s application for a teaching position at [REDACTED]. Please read
+them carefully and then summarize the applicant's demographics as directed.
+Please bear in mind that the interview questions are not necessarily in the
+order in which they were originally asked, and that both the interview
+questions and the resume may be messy. The transcriptions may contain errors,
+and the resume may have been incompletely extracted and partially redacted.
+Please do your best despite these limitations. The application begins after
+the octothorpe (#) characters.
